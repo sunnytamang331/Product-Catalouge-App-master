@@ -1,0 +1,69 @@
+body {
+  background-color: #000;
+}
+.card {
+  border: 2px solid black;
+}
+.product {
+  background-color: #eee;
+  height: 65vh;
+}
+.brand {
+  font-size: 13px;
+}
+.act-price {
+  color: red;
+  font-weight: 700;
+}
+.dis-price {
+  text-decoration: line-through;
+}
+.about {
+  font-size: 14px;
+  
+}
+.color {
+  margin-bottom: 10px;
+}
+
+.btn-danger {
+  background-color: #ff0000 !important;
+  border-color: #ff0000 !important;
+}
+.btn-danger:hover {
+  background-color: #da0606 !important;
+  border-color: #da0606 !important;
+}
+.btn-danger:focus {
+  box-shadow: none;
+}
+
+.yes{
+  color: rgb(40, 134, 40);
+  font-family:  Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 5px;
+}
+.no{
+  color: rgb(218, 42, 42);
+  font-family:  Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 5px;
+}
+
+
+
+a:hover{
+cursor: pointer;
+text-decoration: underline;
+}
+
+i{
+  margin-right: 4px;
+}
+
+.input-group input{
+  margin-right: 6px;
+}
+
+.input-group .btn{
+  background-color: rgb(208, 204, 204);
+}
